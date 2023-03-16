@@ -9,3 +9,4 @@ Rashid Hayato
 ## List the author and links to any Attributions for code and/or assets you used that are not your own;
 Reference ; CPNT 262 class and daily class notes
 ## A brief description of what your application does and how it could be used in a real-life project.
+what my application does is, a user is able to list the number i have putted in my arrays 
